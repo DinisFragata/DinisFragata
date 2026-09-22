@@ -1,139 +1,107 @@
 <h1 align="center">Dinis Fragata</h1>
 
 <p align="center">
-  1300+ hours of internships • AI Projects • Erasmus Experience
+  <b>I build chat assistants for small businesses.</b><br>
+  They answer customers on your website in Portuguese and English.
 </p>
 
 <p align="center">
-  <i>Make it happen.</i>
+  <a href="https://dinisfragata.pt"><img alt="Website" src="https://img.shields.io/badge/Website-dinisfragata.pt-111827?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/dinis-fragata/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-dinis--fragata-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:dinis@dinisfragata.pt"><img alt="Email" src="https://img.shields.io/badge/Email-dinis%40dinisfragata.pt-6b7280?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
----
-
-## Highlights
-
-- **1300+** hours of professional internships
-- Built **AI**-powered automation systems using **GPT** models
-- Erasmus+ internship at **Dilium SRL** and **Neural AI** (Italy & Malta)
-- Built full-stack web and mobile applications
-- Professional Aptitude Project best grade (**20/20**)
-- **9 client projects** delivered during AI internship
+<table align="center">
+  <tr>
+    <td align="center"><b>1300+</b><br><sub>internship hours</sub></td>
+    <td align="center"><b>9</b><br><sub>client projects</sub></td>
+    <td align="center"><b>20/20</b><br><sub>final school project</sub></td>
+  </tr>
+</table>
 
 ---
 
-### What I Can Help Businesses With
-- 🤖 AI Chatbots
-- 📈 Business Process Automation
-- 🎲 Data Extraction Pipelines
-- 🛜 API Integrations
-- 🎯 Custom AI Solutions
+## What I do
+
+A chat assistant on your company's website, live in **5 days**.
+
+- **Who it's for:** clinics, driving schools, gyms and garages.
+- **What it does:** answers frequent questions (opening hours, prices, bookings) at any time of day, in Portuguese and English.
+- **Turnaround:** 5 days until it's live.
+
+I also do process automation, tool integrations and data extraction.
+
+<a href="https://demo.dinisfragata.pt">
+  <img src="https://github.com/user-attachments/assets/81be2cd1-3bad-410f-bb2f-e1f436b5b0f9" alt="Chat assistant demo on a fictional veterinary clinic website" width="100%">
+</a>
+
+<p align="center"><a href="https://demo.dinisfragata.pt"><b>Try the demo: a fictional veterinary clinic →</b></a></p>
 
 ---
 
-## About Me
+## Projects
 
-I'm an 18-year-old software developer focused on AI automation, full-stack development and building practical solutions to real-world problems.
+### Hotel.Operations
 
-Currently exploring AI-powered products, automation systems and trying SaaS opportunities.
+Hotel management platform: reservations, rooms, guests, maintenance, check-in/check-out, analytics and an AI assistant that answers questions about the state of the hotel.
 
----
+<a href="https://www.dinisfragata.pt/projects/hotel-ai-assistant/demo">
+  <img src="https://github.com/user-attachments/assets/bf971c07-0ea3-4c54-b923-cf50b6990117" alt="Hotel.Operations dashboard" width="100%">
+</a>
 
-## Currently Building
+[Code](https://github.com/DinisFragata/Hotel-AI-Assistent) · [Demo](https://www.dinisfragata.pt/projects/hotel-ai-assistant/demo)
 
-- [Project-Hotel-With-AI](https://github.com/DinisFragata292204/hotel-chatbot)
-- Personal Portfolio
-- AI-powered automation tools
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js%2016-000000?logo=nextdotjs&logoColor=white">
+<img alt="React" src="https://img.shields.io/badge/React%2019-20232a?logo=react&logoColor=61dafb">
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white">
+<img alt="Prisma" src="https://img.shields.io/badge/Prisma-2d3748?logo=prisma&logoColor=white">
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white">
+<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-0f172a?logo=tailwindcss&logoColor=38bdf8">
+<img alt="Vercel AI SDK" src="https://img.shields.io/badge/Vercel%20AI%20SDK-000000?logo=vercel&logoColor=white">
 
----
+- Reservation state machine: only valid transitions are allowed (for example, a cancelled reservation can't be confirmed again).
+- Check-in and check-out as atomic transactions: the reservation, the room status and the operation log change together or not at all.
+- Date-overlap check when creating and editing reservations.
+- AI assistant that queries the hotel's real data and answers with cards and charts.
 
-## Personal Projects
+> Portfolio project, not yet tested with real hotels.
 
-### Project-Hotel-With-AI (In Progress)
+### Professional Aptitude Test (PAP) · 20/20
 
-AI-powered customer support assistant designed for hotels.
+A school management app (attendance, grades, lunch tickets, role-based authentication) for web and mobile, developed over 7 months.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ee7f68eb-5e9c-4aff-883e-6529a7b5f459" alt="Login screen" width="24%">
+  <img src="https://github.com/user-attachments/assets/2a4e15ed-1a3b-403e-9a33-a5ab1b84e85a" alt="Grades as a chart" width="24%">
+  <img src="https://github.com/user-attachments/assets/7b0e60cc-895e-4b19-bb26-d54ac790e5ba" alt="Calendar with events and tasks" width="24%">
+  <img src="https://github.com/user-attachments/assets/64e38479-37cf-49d5-9743-90d8b4ee7f78" alt="Lunch ticket booking" width="24%">
+</p>
 
+<img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232a?logo=react&logoColor=61dafb">
+<img alt="Expo" src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white">
+<img alt="PHP" src="https://img.shields.io/badge/PHP-777bb4?logo=php&logoColor=white">
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479a1?logo=mysql&logoColor=white">
 
-https://github.com/user-attachments/assets/16e8cd82-addc-46a6-9e61-ae4e2778d817
-
-
-
-Features:
-
-- Instant guest support
-- Multilingual responses
-- FAQ automation
-- Booking assistance
-- Modern interface
-
-### Impact
-
-- Explored a potential SaaS solution for the hospitality industry
-- Designed to reduce repetitive guest support requests
-- Improved response speed and customer experience
-
-Tech:
-`React` · `OpenAI API` · `Vercel`
-
-Links:
-- [🔗 Live demo](https://hotel-chatbot-jade.vercel.app/)
-- [🔗 GitHub Repo](https://github.com/DinisFragata292204/hotel-chatbot)
+[Code](https://github.com/DinisFragata/Professional-Aptitude-Test-2024-2025)
 
 ---
 
-## Neural AI — AI Developer Intern (700+h)
+## Experience
 
-Worked across 9 client projects involving:
+| When | Where | What |
+| --- | --- | --- |
+| 01/2026 – 05/2026 | **Neural AI** · Malta<br><sub>AI and automation internship</sub> | 9 client projects: integrations with language models (OpenAI) to automate business tasks; collection and enrichment of data on 12,000+ hotels with the Airdna API, Apify scrapers and GPT-4o-mini; Google Sheets automations and API integrations. |
+| 05/2025 – 07/2025 | **Dilium SRL** · Milan<br><sub>Erasmus+ internship</sub> | Frontend work with Svelte, SvelteKit and Tailwind on production websites. |
 
-- LLM integrations (gpt-4o-mini)
-- Web scraping (Apify)
-- Data extraction pipelines (From **Airdna** API)
-- AI-powered business automation
-- API integrations
-- Google Sheets automations
-
-Tech:
-`Python` · `OpenAI API` · `Apify` · `Google Sheets`
-
-### Featured Projects
-
-Built an AI-powered data extraction pipeline capable of collecting and enriching information from thousands of hotels.
-
-Achievements:
-
-- Extracted data from **12,000+** hotels worldwide
-- Integrated **Apify** scrapers, and save data
-- Automated Google Sheets workflows
-- Used GPT-4o-mini to analyze hotel websites
-- Extracted amenities, accessibility, breakfast information and evidence from websites
+Over **1300 hours of internships** in Portugal, Italy and Malta, since 2023. More detail on [my website](https://dinisfragata.pt) and on [LinkedIn](https://www.linkedin.com/in/dinis-fragata/).
 
 ---
 
-### School Management Platform (20/20)
+## Contact
 
-7-month full-stack project developed as Professional Aptitude Test.
+Available for freelance projects.
 
-#### Features:
-
-- Authentication system
-- Attendance management
-- Lunch ticket management
-- Student grades
-- Mobile + web interface
-
-#### Acquired Learnings:
-
-- Build mobile and web applications
-- Encrypt data and user managements
-- Implement attendance tracking system
-- Creat lunch ticket management
-- Develop student grading features
-
-Tech:
-`React Native` · `Expo` · `PHP` · `MySQL`
-
----
-
-### Contact
--  Email: **dinis@dinisfragata.pt**  
--  LinkedIn: [linkedin.com/in/dinis-fragata](https://www.linkedin.com/in/dinis-fragata/)
+<a href="mailto:dinis@dinisfragata.pt"><img alt="Email" src="https://img.shields.io/badge/Email-dinis%40dinisfragata.pt-6b7280?logo=gmail&logoColor=white"></a>
+<a href="https://demo.dinisfragata.pt"><img alt="Demo" src="https://img.shields.io/badge/Demo-demo.dinisfragata.pt-2f7a5a"></a>
+<a href="https://dinisfragata.pt"><img alt="Website" src="https://img.shields.io/badge/Website-dinisfragata.pt-111827"></a>
+<a href="https://www.linkedin.com/in/dinis-fragata/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-dinis--fragata-0a66c2?logo=linkedin&logoColor=white"></a>
