@@ -14,7 +14,7 @@
 <table align="center">
   <tr>
     <td align="center"><b>1300+</b><br><sub>internship hours</sub></td>
-    <td align="center"><b>9</b><br><sub>client projects</sub></td>
+    <td align="center"><b>9</b><br><sub>client projects at Neural AI</sub></td>
     <td align="center"><b>20/20</b><br><sub>final school project</sub></td>
   </tr>
 </table>
