@@ -53,7 +53,7 @@ Hotel management platform: reservations, rooms, guests, maintenance, check-in/ch
 - Date-overlap check when creating and editing reservations.
 - AI assistant that queries the hotel's real data and answers with cards and charts.
 
-> Portfolio project, not yet tested with real hotels.
+> Portfolio project with seeded demo data.
 
 ### Professional Aptitude Test (PAP) · 20/20
 
