@@ -1,8 +1,8 @@
 <h1 align="center">Dinis Fragata</h1>
 
 <p align="center">
-  <b>I build chat assistants for small businesses.</b><br>
-  They answer customers on your website in Portuguese and English.
+  <b>I build websites and get businesses found on Google.</b><br>
+  For companies and agencies, AI automations.
 </p>
 
 <p align="center">
@@ -23,20 +23,9 @@
 
 ## What I do
 
-A chat assistant on your company's website, live in **5 days**.
-
-- **Who it's for:** clinics, driving schools, gyms and garages.
-- **What it does:** answers frequent questions (opening hours, prices, bookings) at any time of day, in Portuguese and English.
-- **Turnaround:** 5 days until it's live.
-
-I also do process automation, tool integrations and data extraction.
-
-<a href="https://demo.dinisfragata.pt">
-  <img src="https://github.com/user-attachments/assets/81be2cd1-3bad-410f-bb2f-e1f436b5b0f9" alt="Chat assistant demo on a fictional veterinary clinic website" width="100%">
-</a>
-
-<p align="center"><a href="https://demo.dinisfragata.pt"><b>Try the demo: a fictional veterinary clinic →</b></a></p>
-
+- **Local businesses:** a simple one-page website and a well-kept Google Business Profile, with a QR card to ask customers for reviews. From €250 / €50.
+- **Companies and agencies:** one-off AI automations and integrations at a fixed price (OpenAI, Google Sheets/Apps Script, APIs, React/Next.js).
+- **Extra:** an AI assistant that answers customers' common questions. Try the demo: a fictional veterinary clinic.
 ---
 
 ## Projects
@@ -49,7 +38,7 @@ Hotel management platform: reservations, rooms, guests, maintenance, check-in/ch
   <img src="https://github.com/user-attachments/assets/bf971c07-0ea3-4c54-b923-cf50b6990117" alt="Hotel.Operations dashboard" width="100%">
 </a>
 
-[Code](https://github.com/DinisFragata/Hotel-AI-Assistent) · [Demo](https://www.dinisfragata.pt/projects/hotel-ai-assistant/demo)
+[Code](https://github.com/DinisFragata/Hotel.Operations) · [Demo](https://www.dinisfragata.pt/projects/hoteloperations/demo)
 
 <img alt="Next.js" src="https://img.shields.io/badge/Next.js%2016-000000?logo=nextdotjs&logoColor=white">
 <img alt="React" src="https://img.shields.io/badge/React%2019-20232a?logo=react&logoColor=61dafb">
