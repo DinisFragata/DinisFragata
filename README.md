@@ -34,11 +34,11 @@
 
 Hotel management platform: reservations, rooms, guests, maintenance, check-in/check-out, analytics and an AI assistant that answers questions about the state of the hotel.
 
-<a href="https://www.dinisfragata.pt/projects/hotel-ai-assistant/demo">
+<a href="https://www.dinisfragata.pt/projects/hotel-operations/demo">
   <img src="https://github.com/user-attachments/assets/bf971c07-0ea3-4c54-b923-cf50b6990117" alt="Hotel.Operations dashboard" width="100%">
 </a>
 
-[Code](https://github.com/DinisFragata/Hotel.Operations) · [Demo](https://www.dinisfragata.pt/projects/hoteloperations/demo)
+[Code](https://github.com/DinisFragata/Hotel.Operations) · [Demo](https://www.dinisfragata.pt/projects/hotel-operations/demo)
 
 <img alt="Next.js" src="https://img.shields.io/badge/Next.js%2016-000000?logo=nextdotjs&logoColor=white">
 <img alt="React" src="https://img.shields.io/badge/React%2019-20232a?logo=react&logoColor=61dafb">
